@@ -31,16 +31,6 @@ Users choose from four moods — **Grounding**, **Softness**, **Energy**, or **F
 
 ---
 
-##  If I Had More Time...
-
-- Add smooth transitions/animations between views
-- Improve SVG icon and visual polish
-- Use real product images instead of placeholders
-- Integrate mood analytics or history view
-- Enhance accessibility (ARIA tags, keyboard support)
-
----
-
 ## How to Run Locally
 
 ```bash
