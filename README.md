@@ -41,19 +41,10 @@ Users choose from four moods — **Grounding**, **Softness**, **Energy**, or **F
 
 ---
 
-##  Time Spent
-
-**Approximately:** 2 hours 45 minutes  
-- Layout & styling: ~1 hour  
-- Logic & localStorage: ~1 hour  
-- Polish & testing: ~45 minutes
-
----
-
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/bella-oter-test.git
+git clone git@github.com:toxidity-18/BellaOterInterTest.git
 cd bella-oter-test
 npm install
 npm run dev
